@@ -10,15 +10,23 @@ The project aims to evaluate and compare different multi-label classification mo
 
 To run this project, ensure you have the following Python packages installed:
 
-- `scikit-learn`
-- `pandas`
-- `numpy`
-- `matplotlib`
-- `nltk`
-- `scipy`
-- `transformers`
-- `torch`
-- `skmultilearn`
+pandas: for data manipulation
+
+matplotlib and seaborn: for data visualization
+
+nltk: for natural language preprocessing
+
+scikit-learn: for classical machine learning models and utilities
+
+scikit-multilearn: for multi-label classification strategies like Binary Relevance, Classifier Chain, and Label Powerset
+
+wordcloud: for visualizing word distributions
+
+PyTorch: for deep learning models
+
+transformers (Hugging Face): for using pre-trained models like SciBERT
+
+tqdm: for progress bars
 
 You can install all dependencies using:
 
