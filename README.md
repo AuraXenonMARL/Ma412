@@ -60,10 +60,10 @@ A pretrained BERT-based language model trained on scientific text (SciBERT) is f
 ---
 ## How to Run the Project
 
-### Clone the repository:
+Clone the repository:
 
-bash
 git clone https://github.com/your-username/Ma412.git
+
 cd Ma412
 
 Open the .ipynb (Jupyter Notebook) file included in the repository using Jupyter Notebook or JupyterLab.
