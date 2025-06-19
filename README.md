@@ -58,7 +58,29 @@ A multi-layer perceptron is used within the Label Powerset strategy to capture n
 A pretrained BERT-based language model trained on scientific text (SciBERT) is fine-tuned for multi-label classification. It leverages contextual embeddings and outperforms traditional models in low-data or high-complexity settings.
 
 ---
+## How to Run the Project
 
+### Clone the repository:
+
+bash
+git clone https://github.com/your-username/Ma412.git
+cd Ma412
+
+Open the .ipynb (Jupyter Notebook) file included in the repository using Jupyter Notebook or JupyterLab.
+
+Follow the instructions within the notebook. You simply need to:
+
+Run each cell in sequential order.
+
+Follow any prompts or explanations embedded in the markdown cells.
+
+Choose the model configurations or adjust parameters as needed.
+
+Review performance metrics printed or visualized at the end.
+
+The notebook guides you step-by-step through:
+
+---
 ## Notebook Structure
 
 The Jupyter Notebook is organized as follows:
