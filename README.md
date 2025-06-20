@@ -95,7 +95,7 @@ The Jupyter Notebook is organized as follows:
    - Text length statistics  
 
 3. **Model Training and Evaluation**  
-   - Each model is trained on a subset of the 100 most frequent labels  
+   - Each model is trained on a subset of the 50 most frequent labels  
    - Evaluation metrics include **Subset Accuracy**, **Hamming Loss**, and **F1 Score (micro average)**  
  
 
