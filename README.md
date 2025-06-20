@@ -62,7 +62,7 @@ A pretrained BERT-based language model trained on scientific text (SciBERT) is f
 
 Clone the repository:
 
-git clone https://github.com/your-username/Ma412.git
+git clone https://github.com/AuraXenonMARL/Ma412.git
 
 cd Ma412
 
@@ -97,10 +97,7 @@ The Jupyter Notebook is organized as follows:
 3. **Model Training and Evaluation**  
    - Each model is trained on a subset of the 100 most frequent labels  
    - Evaluation metrics include **Subset Accuracy**, **Hamming Loss**, and **F1 Score (micro average)**  
-
-4. **Hyperparameter Tuning (optional)**  
-   - Custom settings can be applied to the neural network or Random Forest  
-   - Adjusting number of labels or training samples can significantly affect performance and runtime  
+ 
 
 5. **Result Interpretation and Comparison**  
    - Final section compares the performance of all models side by side  
